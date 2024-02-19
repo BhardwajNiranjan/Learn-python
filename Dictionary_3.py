@@ -27,4 +27,3 @@ print(d.keys())
 # it will show value of keys
 print(d.values())    
 print (d[0])
-print(n)
